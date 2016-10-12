@@ -1567,8 +1567,6 @@
 
     /*--------------------------------------------------------------------------*/
 
-    var define = window.define;
-
     // expose Pager.js
     // This code is a modified version of the AMD-fallback code found in Lo-Dash
     // (https://raw.github.com/bestiejs/lodash/master/lodash.js)
